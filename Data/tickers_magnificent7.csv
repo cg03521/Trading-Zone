@@ -1,0 +1,8 @@
+Ticker,Company,Sector,Industry,Country,Market Cap,P/E,Price,Change,Volume,Index
+AAPL,Apple Inc,Technology,Consumer Electronics,USA,2860000000000,28.5,180.2,0.012,53426300,S&P 500
+MSFT,Microsoft Corporation,Technology,Software - Infrastructure,USA,3100000000000,35.2,420.1,0.009,24811000,S&P 500
+GOOGL,Alphabet Inc Class A,Communication Services,Internet Content & Information,USA,1960000000000,27.4,155.3,0.008,21034000,S&P 500
+AMZN,Amazon.com Inc,Consumer Cyclical,Internet Retail,USA,1840000000000,59.1,175.8,0.014,36845000,S&P 500
+NVDA,NVIDIA Corporation,Technology,Semiconductors,USA,2800000000000,72.6,875.5,0.018,52210000,S&P 500
+META,Meta Platforms Inc,Communication Services,Internet Content & Information,USA,1270000000000,29.8,480.4,0.016,17832000,S&P 500
+TSLA,Tesla Inc,Consumer Cyclical,Auto Manufacturers,USA,550000000000,62.3,173.2,-0.007,12341000,S&P 500
