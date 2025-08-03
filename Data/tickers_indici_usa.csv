@@ -1,4 +1,4 @@
-Ticker Yahoo Finance,Indice
+Ticker,Indice
 ^GSPC,S&P 500
 ^DJI,Dow Jones Industrial Average
 ^IXIC,NASDAQ Composite
@@ -10,3 +10,4 @@ Ticker Yahoo Finance,Indice
 ^NDX,NASDAQ 100
 ^DJT,Dow Jones Transportation Average
 ^DJU,Dow Jones Utility Average
+
