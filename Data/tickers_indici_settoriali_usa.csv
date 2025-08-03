@@ -1,4 +1,4 @@
-Ticker Yahoo Finance,Settore
+Ticker,Settore
 ^SP500-50,Communication Services
 ^SP500-25,Consumer Discretionary
 ^SP500-30,Consumer Staples
@@ -10,3 +10,4 @@ Ticker Yahoo Finance,Settore
 ^SP500-15,Materials
 ^SP500-60,Real Estate
 ^SP500-55,Utilities
+
