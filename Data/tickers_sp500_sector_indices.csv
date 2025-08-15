@@ -1,5 +1,5 @@
 Settore,Nome Indice Settoriale,Ticker TradingView,Ticker
-Information Technology,S&P 500 Information Technology,S5INFT,^S5INFT
+Information Technology,S&P 500 Information Technology,S5INFT,S5INFT
 Health Care,S&P 500 Health Care,S5HLTH,^S5HLTH
 Energy,S&P 500 Energy,SPN,^SPN
 Financials,S&P 500 Financials,SPF,^SPF
@@ -10,3 +10,4 @@ Utilities,S&P 500 Utilities,S5UTIL,^S5UTIL
 Real Estate,S&P 500 Real Estate,S5REAS,^S5REAS
 Materials,S&P 500 Materials,S5MATR,^S5MATR
 Communication Services,S&P 500 Communication Services,S5TELS,^S5TELS
+
