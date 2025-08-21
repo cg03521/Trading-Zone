@@ -10,4 +10,5 @@ SIL=F,Micro Silver Futures
 HG=F,Copper Sep 25
 PA=F,Palladium Sep 25
 CL=F,Crude Oil Sep 25
-FDAX=F,DAX
+^GDAXI,DAX
+
