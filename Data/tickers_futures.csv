@@ -8,8 +8,7 @@ MGC=F,Micro Gold Futures
 SI=F,Silver
 SIL=F,Micro Silver Futures
 HG=F,Copper
-PA=F,Palladium
-CL=F,Crude Oi
+CL=F,Crude Oil
 ^GDAXI,DAX
 QQQ,Invesco QQQ Trust
 SPY,SPDR S&P 500 ETF
