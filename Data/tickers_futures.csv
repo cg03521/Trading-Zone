@@ -1,5 +1,5 @@
 Ticker,Description
-ES=F,E-Mini S&P 500 Sep 25
+ES=F,E-Mini S&P 500
 YM=F,Mini Dow Jones Indus.
 NQ=F,Nasdaq 100
 RTY=F,E-mini Russell 2000
@@ -7,8 +7,9 @@ GC=F,Gold
 MGC=F,Micro Gold Futures
 SI=F,Silver
 SIL=F,Micro Silver Futures
-HG=F,Copper Sep 25
-PA=F,Palladium Sep 25
-CL=F,Crude Oil Sep 25
+HG=F,Copper
+PA=F,Palladium
+CL=F,Crude Oi
 ^GDAXI,DAX
+
 
