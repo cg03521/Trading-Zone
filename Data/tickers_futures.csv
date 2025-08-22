@@ -4,9 +4,7 @@ YM=F,Mini Dow Jones Indus.
 NQ=F,Nasdaq 100
 RTY=F,E-mini Russell 2000
 GC=F,Gold
-MGC=F,Micro Gold Futures
 SI=F,Silver
-SIL=F,Micro Silver Futures
 HG=F,Copper
 CL=F,Crude Oil
 ^GDAXI,DAX
@@ -17,3 +15,4 @@ ETH-USD,Ethereum USD
 DX-Y.NYB,Dollar Index
 FTSEMIB.MI,FTSEMIB
 ^FCHI,CAC40
+
