@@ -1,4 +1,4 @@
-Ticker,Description
+Ticker,Name
 ES=F,E-Mini S&P 500
 YM=F,Mini Dow Jones Indus.
 NQ=F,Nasdaq 100
@@ -15,3 +15,4 @@ FTSEMIB.MI,FTSEMIB
 ^FCHI,CAC40
 ^VIX,VIX
 ^STOXX50E, EURO STOXX 50
+
