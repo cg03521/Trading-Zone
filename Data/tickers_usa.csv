@@ -1,4 +1,4 @@
-Ticker,Company,Sector,Industry,Country,Market Cap,P/E,Price,Change,Volume,Index
+Ticker,Name,Sector,Industry,Country,Market Cap,P/E,Price,Change,Volume,Index
 A,Agilent Technologies Inc,Healthcare,Diagnostics & Research,USA,30990000000.0,24.98,108.7,0.011000000000000001,2093356.0,S&P 500
 AAPL,Apple Inc,Technology,Consumer Electronics,USA,2949680000000.0,30.82,197.49,0.0063,50478872.0,S&P 500
 ABBV,Abbvie Inc,Healthcare,Drug Manufacturers - General,USA,328290000000.0,78.94,185.58,-0.013300000000000001,8816708.0,S&P 500
