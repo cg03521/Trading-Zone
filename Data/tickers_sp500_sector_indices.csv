@@ -1,4 +1,4 @@
-Settore,Name,Ticker TradingView,Ticker
+Name,Description,Ticker TradingView,Ticker
 Information Technology,S&P 500 Information Technology,S5INFT,^SP500-45
 Health Care,S&P 500 Health Care,S5HLTH,^SP500-35
 Energy,S&P 500 Energy,SPN,^SP500-10
@@ -10,3 +10,4 @@ Utilities,S&P 500 Utilities,S5UTIL,^SP500-55
 Real Estate,S&P 500 Real Estate,S5REAS,^SP500-60
 Materials,S&P 500 Materials,S5MATR,^SP500-15
 Communication Services,S&P 500 Communication Services,S5TELS,^SP500-50
+
