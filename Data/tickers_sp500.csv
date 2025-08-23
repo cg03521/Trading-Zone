@@ -1,10 +1,10 @@
-Company,Ticker,Weight
+Name,Ticker,Weight
 Apple Inc.,AAPL,6.97%
 Microsoft Corp,MSFT,6.02%
 Nvidia Corp,NVDA,5.66%
 Amazon.com Inc,AMZN,3.94%
 Meta Platforms Inc. Class A,META,2.73%
-Berkshire Hathaway Class B,BRK-A,2.03%
+Berkshire Hathaway Class A,BRK-A,2.03%
 Berkshire Hathaway Class B,BRK-B,2.03%
 Alphabet Inc. Class A,GOOGL,1.96%
 Broadcom Inc.,AVGO,1.67%
