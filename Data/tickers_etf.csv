@@ -1,4 +1,4 @@
-Ticker,Descrizione
+Ticker,Name
 AIAI,iShares Robotics and Artificial Intelligence UCITS ETF
 BNKE,Amundi Euro Stoxx Banks Ucits Etf Acc
 BTP10,Amundi Ita Btp Govmnt Bnd 10y Ucits Etf
@@ -26,3 +26,4 @@ SWDA,Ishares Core Msci World Ucits Etf Acc
 TNO,Amundi Stoxx Eur 600 Tech Ucits Etf A
 UST,Amundi Nasdaq-100 Ii Ucits Etf Acc
 VNGA80,Vanguard LifeStrategy 80% Equity UCITS ETF (Acc)
+
