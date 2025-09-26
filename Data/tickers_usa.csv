@@ -32,7 +32,6 @@ AMP,Ameriprise Financial Inc,Financial,Asset Management,USA,46560000000.0,16.62,
 AMT,American Tower Corp,Real Estate,REIT - Specialty,USA,102000000000.0,55.91,217.88,-0.0073,3007593.0,S&P 500
 AMZN,Amazon.com Inc,Consumer Cyclical,Internet Retail,USA,2039190000000.0,31.33,192.08,0.0179,41043620.0,S&P 500
 ANET,Arista Networks Inc,Technology,Computer Hardware,USA,109600000000.0,36.92,87.27,0.0095,9722065.0,S&P 500
-ANSS,Ansys Inc,Technology,Software - Application,USA,29400000000.0,49.65,334.45,0.0259,758173.0,S&P 500
 AON,Aon plc,Financial,Insurance Brokers,Ireland,77110000000.0,30.43,357.11,-0.0073,1181567.0,S&P 500
 AOS,A.O. Smith Corp,Industrials,Specialty Industrial Machinery,USA,9660000000.0,19.02,68.01,0.0161,1185783.0,S&P 500
 APA,APA Corporation,Energy,Oil & Gas E&P,USA,5890000000.0,7.2,16.18,0.0452,12759019.0,S&P 500
@@ -512,7 +511,6 @@ AMAT,Applied Materials Inc,Technology,Semiconductor Equipment & Materials,USA,12
 AMD,Advanced Micro Devices Inc,Technology,Semiconductors,USA,164900000000.0,74.55,101.7,0.0134,54231360.0,NASDAQ 100
 AMGN,AMGEN Inc,Healthcare,Drug Manufacturers - General,USA,146280000000.0,24.83,272.05,-0.0137,3618364.0,NASDAQ 100
 AMZN,Amazon.com Inc,Consumer Cyclical,Internet Retail,USA,2039190000000.0,31.33,192.08,0.0179,41043620.0,NASDAQ 100
-ANSS,Ansys Inc,Technology,Software - Application,USA,29400000000.0,49.65,334.45,0.0259,758173.0,NASDAQ 100
 APP,Applovin Corp,Technology,Software - Application,USA,114890000000.0,61.31,339.51,0.1188,14355299.0,NASDAQ 100
 ARM,Arm Holdings plc. ADR,Technology,Semiconductors,United Kingdom,122810000000.0,156.38,116.52,-0.061799999999999994,15725322.0,NASDAQ 100
 ASML,ASML Holding NV,Technology,Semiconductor Equipment & Materials,Netherlands,278450000000.0,29.84,708.03,0.0109,1040537.0,NASDAQ 100
