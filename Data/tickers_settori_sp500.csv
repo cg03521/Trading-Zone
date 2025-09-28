@@ -1,14 +1,12 @@
 Ticker,Name
-XLY,Consumer Discretionary
-XLP,Consumer Staples
+XLB,Basic Materials
+XLC,Communication Services
+XLY,Consumer Cyclical
+XLP,Consumer Defensive
+XLE,Energy
+XLF,Financial Services
 XLV,Healthcare
 XLI,Industrials
-XLK,Information Technology
-XLB,Basic Materials
 XLRE,Real Estate
-XLC,Communication Services
+XLK,Technology
 XLU,Utilities
-XLF,Financial Services
-XLE,Energy
-XLY, Consumer Cyclical
-XLP, Consumer Defensive
