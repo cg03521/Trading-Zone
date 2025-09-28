@@ -1,101 +1,102 @@
-Name,Ticker,Weight
-Apple Inc,AAPL,9.22%
-Microsoft Corp,MSFT,7.96%
-NVIDIA Corp,NVDA,7.46%
-Amazon.com Inc,AMZN,5.85%
-Broadcom Inc,AVGO,3.66%
-Meta Platforms Inc,META,3.62%
-Netflix Inc,NFLX,2.82%
-Costco Wholesale Corp,COST,2.81%
-Tesla Inc,TSLA,2.72%
-Alphabet Inc,GOOGL,2.60%
-Alphabet Inc,GOOG,2.47%
-T-Mobile US Inc,TMUS,2.07%
-Cisco Systems Inc,CSCO,1.65%
-Linde PLC,LIN,1.48%
-PepsiCo Inc,PEP,1.39%
-Palantir Technologies Inc,PLTR,1.37%
-Intuitive Surgical Inc,ISRG,1.22%
-QUALCOMM Inc,QCOM,1.18%
-Advanced Micro Devices Inc,AMD,1.17%
-Adobe Inc,ADBE,1.16%
-Intuit Inc,INTU,1.16%
-Texas Instruments Inc,TXN,1.11%
-Amgen Inc,AMGN,1.11%
-Booking Holdings Inc,BKNG,1.05%
-Comcast Corp,CMCSA,0.95%
-Honeywell International Inc,HON,0.94%
-Gilead Sciences Inc,GILD,0.93%
-Vertex Pharmaceuticals Inc,VRTX,0.87%
-Automatic Data Processing Inc,ADP,0.84%
-Applied Materials Inc,AMAT,0.81%
-Palo Alto Networks Inc,PANW,0.78%
-Starbucks Corp,SBUX,0.76%
-MercadoLibre Inc,MELI,0.72%
-Analog Devices Inc,ADI,0.70%
-Intel Corp,INTC,0.69%
-Micron Technology Inc,MU,0.69%
-Lam Research Corp,LRCX,0.65%
-KLA Corp,KLAC,0.63%
-Mondelez International Inc,MDLZ,0.59%
-Crowdstrike Holdings Inc,CRWD,0.58%
-Cintas Corp,CTAS,0.56%
-PDD Holdings Inc ADR,PDD,0.56%
-O'Reilly Automotive Inc,ORLY,0.55%
-AppLovin Corp,APP,0.55%
-MicroStrategy Inc,MSTR,0.52%
-Fortinet Inc,FTNT,0.52%
-DoorDash Inc,DASH,0.52%
-Cadence Design Systems Inc,CDNS,0.49%
-Synopsys Inc,SNPS,0.47%
-Regeneron Pharmaceuticals Inc,REGN,0.46%
-PayPal Holdings Inc,PYPL,0.46%
-Marriott International Inc/MD,MAR,0.46%
-Constellation Energy Corp,CEG,0.44%
-Roper Technologies Inc,ROP,0.43%
-ASML Holding NV,ASML,0.42%
-Autodesk Inc,ADSK,0.39%
-Monster Beverage Corp,MNST,0.39%
-CSX Corp,CSX,0.38%
-Marvell Technology Inc,MRVL,0.38%
-American Electric Power Co Inc,AEP,0.38%
-Paychex Inc,PAYX,0.37%
-Airbnb Inc,ABNB,0.37%
-Charter Communications Inc,CHTR,0.37%
-Copart Inc,CPRT,0.36%
-Workday Inc,WDAY,0.35%
-PACCAR Inc,PCAR,0.35%
-NXP Semiconductors NV,NXPI,0.34%
-Diamondback Energy Inc,FANG,0.31%
-Keurig Dr Pepper Inc,KDP,0.31%
-Fastenal Co,FAST,0.30%
-Exelon Corp,EXC,0.30%
-Baker Hughes Co,BKR,0.29%
-Ross Stores Inc,ROST,0.29%
-AstraZeneca PLC ADR,AZN,0.29%
-Axon Enterprise Inc,AXON,0.28%
-Verisk Analytics Inc,VRSK,0.28%
-Xcel Energy Inc,XEL,0.27%
-Coca-Cola Europacific Partners PLC,CCEP,0.27%
-Lululemon Athletica Inc,LULU,0.27%
-Cognizant Technology Solutions Corp,CTSH,0.26%
-Electronic Arts Inc,EA,0.26%
-Take-Two Interactive Software Inc,TTWO,0.26%
-GE HealthCare Technologies Inc,GEHC,0.25%
-Atlassian Corp,TEAM,0.25%
-Old Dominion Freight Line Inc,ODFL,0.24%
-Kraft Heinz Co/The,KHC,0.24%
-IDEXX Laboratories Inc,IDXX,0.23%
-Datadog Inc,DDOG,0.22%
-CoStar Group Inc,CSGP,0.22%
-Zscaler Inc,ZS,0.22%
-Microchip Technology Inc,MCHP,0.18%
-Dexcom Inc,DXCM,0.18%
-Warner Bros Discovery Inc,WBD,0.18%
-Trade Desk Inc/The,TTD,0.17%
-CDW Corp/DE,CDW,0.15%
-GLOBALFOUNDRIES Inc,GFS,0.14%
-Biogen Inc,BIIB,0.14%
-ON Semiconductor Corp,ON,0.12%
-ARM Holdings PLC ADR,ARM,0.10%
-MongoDB Inc,MDB,0.10%
+Ticker,Name,Sector,Industry
+AAPL,Apple Inc.,Technology,Consumer Electronics
+ABNB,Airbnb Inc.,Consumer Cyclical,Travel Services
+ADBE,Adobe Inc.,Technology,Software - Application
+ADI,Analog Devices Inc.,Technology,Semiconductors
+ADP,Automatic Data Processing Inc.,Technology,Software - Application
+ADSK,Autodesk Inc.,Technology,Software - Application
+AEP,American Electric Power Company Inc.,Utilities,Utilities - Regulated Electric
+AMAT,Applied Materials Inc.,Technology,Semiconductor Equipment & Materials
+AMD,Advanced Micro Devices Inc.,Technology,Semiconductors
+AMGN,Amgen Inc.,Healthcare,Drug Manufacturers - General
+AMZN,Amazon.com Inc.,Consumer Cyclical,Internet Retail
+APP,AppLovin Corporation,Communication Services,Advertising Agencies
+ARM,Arm Holdings plc,Technology,Semiconductors
+ASML,ASML Holding N.V.,Technology,Semiconductor Equipment & Materials
+AVGO,Broadcom Inc.,Technology,Semiconductors
+AXON,Axon Enterprise Inc.,Industrials,Aerospace & Defense
+AZN,AstraZeneca PLC,Healthcare,Drug Manufacturers - General
+BIIB,Biogen Inc.,Healthcare,Drug Manufacturers - General
+BKNG,Booking Holdings Inc.,Consumer Cyclical,Travel Services
+BKR,Baker Hughes Company,Energy,Oil & Gas Equipment & Services
+CCEP,Coca-Cola Europacific Partners PLC,Consumer Defensive,Beverages - Non-Alcoholic
+CDNS,Cadence Design Systems Inc.,Technology,Software - Application
+CDW,CDW Corporation,Technology,Information Technology Services
+CEG,Constellation Energy Corporation,Utilities,Utilities - Renewable
+CHTR,Charter Communications Inc.,Communication Services,Telecom Services
+CMCSA,Comcast Corporation,Communication Services,Telecom Services
+COST,Costco Wholesale Corporation,Consumer Defensive,Discount Stores
+CPRT,Copart Inc.,Industrials,Specialty Business Services
+CRWD,CrowdStrike Holdings Inc.,Technology,Software - Infrastructure
+CSCO,Cisco Systems Inc.,Technology,Communication Equipment
+CSGP,CoStar Group Inc.,Real Estate,Real Estate Services
+CSX,CSX Corporation,Industrials,Railroads
+CTAS,Cintas Corporation,Industrials,Specialty Business Services
+CTSH,Cognizant Technology Solutions Corporation,Technology,Information Technology Services
+DASH,DoorDash Inc.,Consumer Cyclical,Internet Retail
+DDOG,Datadog Inc.,Technology,Software - Application
+DXCM,DexCom Inc.,Healthcare,Medical Devices
+EA,Electronic Arts Inc.,Communication Services,Electronic Gaming & Multimedia
+EXC,Exelon Corporation,Utilities,Utilities - Regulated Electric
+FANG,Diamondback Energy Inc.,Energy,Oil & Gas E&P
+FAST,Fastenal Company,Industrials,Industrial Distribution
+FTNT,Fortinet Inc.,Technology,Software - Infrastructure
+GEHC,GE HealthCare Technologies Inc.,Healthcare,Health Information Services
+GFS,GlobalFoundries Inc.,Technology,Semiconductors
+GILD,Gilead Sciences Inc.,Healthcare,Drug Manufacturers - General
+GOOG,Alphabet Inc.,Communication Services,Internet Content & Information
+GOOGL,Alphabet Inc.,Communication Services,Internet Content & Information
+HON,Honeywell International Inc.,Industrials,Conglomerates
+IDXX,IDEXX Laboratories Inc.,Healthcare,Diagnostics & Research
+INTC,Intel Corporation,Technology,Semiconductors
+INTU,Intuit Inc.,Technology,Software - Application
+ISRG,Intuitive Surgical Inc.,Healthcare,Medical Instruments & Supplies
+KDP,Keurig Dr Pepper Inc.,Consumer Defensive,Beverages - Non-Alcoholic
+KHC,The Kraft Heinz Company,Consumer Defensive,Packaged Foods
+KLAC,KLA Corporation,Technology,Semiconductor Equipment & Materials
+LIN,Linde plc,Basic Materials,Specialty Chemicals
+LRCX,Lam Research Corporation,Technology,Semiconductor Equipment & Materials
+LULU,lululemon athletica inc.,Consumer Cyclical,Apparel Retail
+MAR,Marriott International Inc.,Consumer Cyclical,Lodging
+MCHP,Microchip Technology Incorporated,Technology,Semiconductors
+MDLZ,Mondelez International Inc.,Consumer Defensive,Confectioners
+MELI,MercadoLibre Inc.,Consumer Cyclical,Internet Retail
+META,Meta Platforms Inc.,Communication Services,Internet Content & Information
+MNST,Monster Beverage Corporation,Consumer Defensive,Beverages - Non-Alcoholic
+MRVL,Marvell Technology Inc.,Technology,Semiconductors
+MSFT,Microsoft Corporation,Technology,Software - Infrastructure
+MSTR,Strategy Inc,Technology,Software - Application
+MU,Micron Technology Inc.,Technology,Semiconductors
+NFLX,Netflix Inc.,Communication Services,Entertainment
+NVDA,NVIDIA Corporation,Technology,Semiconductors
+NXPI,NXP Semiconductors N.V.,Technology,Semiconductors
+ODFL,Old Dominion Freight Line Inc.,Industrials,Trucking
+ON,ON Semiconductor Corporation,Technology,Semiconductors
+ORLY,O'Reilly Automotive Inc.,Consumer Cyclical,Auto Parts
+PANW,Palo Alto Networks Inc.,Technology,Software - Infrastructure
+PAYX,Paychex Inc.,Technology,Software - Application
+PCAR,PACCAR Inc,Industrials,Farm & Heavy Construction Machinery
+PDD,PDD Holdings Inc.,Consumer Cyclical,Internet Retail
+PEP,PepsiCo Inc.,Consumer Defensive,Beverages - Non-Alcoholic
+PLTR,Palantir Technologies Inc.,Technology,Software - Infrastructure
+PYPL,PayPal Holdings Inc.,Financial Services,Credit Services
+QCOM,QUALCOMM Incorporated,Technology,Semiconductors
+REGN,Regeneron Pharmaceuticals Inc.,Healthcare,Biotechnology
+ROP,Roper Technologies Inc.,Technology,Software - Application
+ROST,Ross Stores Inc.,Consumer Cyclical,Apparel Retail
+SBUX,Starbucks Corporation,Consumer Cyclical,Restaurants
+SHOP,Shopify Inc.,Technology,Software - Application
+SNPS,Synopsys Inc.,Technology,Software - Infrastructure
+TEAM,Atlassian Corporation,Technology,Software - Application
+TMUS,T-Mobile US Inc.,Communication Services,Telecom Services
+TRI,Thomson Reuters Corporation,Industrials,Specialty Business Services
+TSLA,Tesla Inc.,Consumer Cyclical,Auto Manufacturers
+TTD,The Trade Desk Inc.,Communication Services,Advertising Agencies
+TTWO,Take-Two Interactive Software Inc.,Communication Services,Electronic Gaming & Multimedia
+TXN,Texas Instruments Incorporated,Technology,Semiconductors
+VRSK,Verisk Analytics Inc.,Industrials,Consulting Services
+VRTX,Vertex Pharmaceuticals Incorporated,Healthcare,Biotechnology
+WBD,Warner Bros. Discovery Inc.,Communication Services,Entertainment
+WDAY,Workday Inc.,Technology,Software - Application
+XEL,Xcel Energy Inc.,Utilities,Utilities - Regulated Electric
+ZS,Zscaler Inc.,Technology,Software - Infrastructure
