@@ -59,7 +59,7 @@ BAX,Baxter International Inc.,Healthcare,Medical Instruments & Supplies
 BBY,Best Buy Co. Inc.,Consumer Cyclical,Specialty Retail
 BDX,Becton Dickinson and Company,Healthcare,Medical Instruments & Supplies
 BEN,Franklin Resources Inc.,Financial Services,Asset Management
-BF.B,,,
+BF-B,Brown-Forman Corporation,Consumer Defensive,Beverages - Wineries & Distilleries
 BG,Bunge Global SA,Consumer Defensive,Farm Products
 BIIB,Biogen Inc.,Healthcare,Drug Manufacturers - General
 BK,The Bank of New York Mellon Corporation,Financial Services,Banks - Diversified
@@ -69,7 +69,7 @@ BLDR,Builders FirstSource Inc.,Industrials,Building Products & Equipment
 BLK,BlackRock Inc.,Financial Services,Asset Management
 BMY,Bristol-Myers Squibb Company,Healthcare,Drug Manufacturers - General
 BR,Broadridge Financial Solutions Inc.,Technology,Information Technology Services
-BRK.B,,,
+BRK-B,Berkshire Hathaway Inc.,Financial Services,Insurance - Diversified
 BRO,Brown & Brown Inc.,Financial Services,Insurance Brokers
 BSX,Boston Scientific Corporation,Healthcare,Medical Devices
 BX,Blackstone Inc.,Financial Services,Asset Management
@@ -205,7 +205,7 @@ GE,GE Aerospace,Industrials,Aerospace & Defense
 GEHC,GE HealthCare Technologies Inc.,Healthcare,Health Information Services
 GEN,Gen Digital Inc.,Technology,Software - Infrastructure
 GEV,GE Vernova Inc.,Industrials,Specialty Industrial Machinery
-GFS,GlobalFoundries Inc.,Technology,Semiconductors
+GFS,GLOBALFOUNDRIES Inc.,Technology,Semiconductors
 GILD,Gilead Sciences Inc.,Healthcare,Drug Manufacturers - General
 GIS,General Mills Inc.,Consumer Defensive,Packaged Foods
 GL,Globe Life Inc.,Financial Services,Insurance - Life
