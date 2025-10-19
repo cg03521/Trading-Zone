@@ -1,4 +1,4 @@
-Ticker=X,Descrizione
+Ticker,Name
 EURUSD=X,Euro vs Dollaro Statunitense
 GBPUSD=X,Sterlina Britannica vs Dollaro Statunitense
 USDCAD=X,Dollaro Statunitense vs Dollaro Canadese
@@ -18,3 +18,4 @@ CADJPY=X,Dollaro Canadese vs Yen Giapponese
 GBPCAD=X,Sterlina Britannica vs Dollaro Canadese
 AUDCAD=X,Dollaro Australiano vs Dollaro Canadese
 USDNOK=X,Dollaro Statunitense vs Corona Norvegese
+
