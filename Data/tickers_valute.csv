@@ -1,20 +1,20 @@
-Ticker,Name
-EURUSD,Euro vs Dollaro Statunitense
-GBPUSD,Sterlina Britannica vs Dollaro Statunitense
-USDCAD,Dollaro Statunitense vs Dollaro Canadese
-CHFJPY,Franco Svizzero vs Yen Giapponese
-USDCHF,Dollaro Statunitense vs Franco Svizzero
-USDJPY,Dollaro Statunitense vs Yen Giapponese
-AUDUSD,Dollaro Australiano vs Dollaro Statunitense
-NZDUSD,Dollaro Neozelandese vs Dollaro Statunitense
-EURJPY,Euro vs Yen Giapponese
-EURAUD,Euro vs Dollaro Australiano
-EURNZD,Euro vs Dollaro Neozelandese
-EURCAD,Euro vs Dollaro Canadese
-AUDJPY,Dollaro Australiano vs Yen Giapponese
-GBPJPY,Sterlina Britannica vs Yen Giapponese
-GBPAUD,Sterlina Britannica vs Dollaro Australiano
-CADJPY,Dollaro Canadese vs Yen Giapponese
-GBPCAD,Sterlina Britannica vs Dollaro Canadese
-AUDCAD,Dollaro Australiano vs Dollaro Canadese
-USDNOK,Dollaro Statunitense vs Corona Norvegese
+Ticker=X,Descrizione
+EURUSD=X,Euro vs Dollaro Statunitense
+GBPUSD=X,Sterlina Britannica vs Dollaro Statunitense
+USDCAD=X,Dollaro Statunitense vs Dollaro Canadese
+CHFJPY=X,Franco Svizzero vs Yen Giapponese
+USDCHF=X,Dollaro Statunitense vs Franco Svizzero
+USDJPY=X,Dollaro Statunitense vs Yen Giapponese
+AUDUSD=X,Dollaro Australiano vs Dollaro Statunitense
+NZDUSD=X,Dollaro Neozelandese vs Dollaro Statunitense
+EURJPY=X,Euro vs Yen Giapponese
+EURAUD=X,Euro vs Dollaro Australiano
+EURNZD=X,Euro vs Dollaro Neozelandese
+EURCAD=X,Euro vs Dollaro Canadese
+AUDJPY=X,Dollaro Australiano vs Yen Giapponese
+GBPJPY=X,Sterlina Britannica vs Yen Giapponese
+GBPAUD=X,Sterlina Britannica vs Dollaro Australiano
+CADJPY=X,Dollaro Canadese vs Yen Giapponese
+GBPCAD=X,Sterlina Britannica vs Dollaro Canadese
+AUDCAD=X,Dollaro Australiano vs Dollaro Canadese
+USDNOK=X,Dollaro Statunitense vs Corona Norvegese
