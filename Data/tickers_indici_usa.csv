@@ -1,5 +1,9 @@
 Ticker,Name
 ^GSPC,S&P 500
+^SP500EW,S&P 500 Equal Weighted
+^SP400EW,S&P MidCap 400 Equal Weighted
+^SP400V,S&P MidCap 400 Value
+^SP600EW,S&P SmallCap 600 Equal Weighted
 ^DJI,Dow Jones Industrial Average
 ^IXIC,NASDAQ Composite
 ^NYA,NYSE Composite
@@ -8,6 +12,7 @@ Ticker,Name
 ^VIX,CBOE Volatility Index (VIX)
 ^OEX,S&P 100
 ^NDX,NASDAQ 100
+^NDXE,NASDAQ 100 Equal Weighted
 ^DJT,Dow Jones Transportation Average
 ^DJU,Dow Jones Utility Average
 ^DJUSRE,Dow Jones U.S. Real Estate Index
