@@ -1,32 +1,10 @@
 Ticker,Name
-AIAI,iShares Robotics and Artificial Intelligence UCITS ETF
-BNKE,Amundi Euro Stoxx Banks Ucits Etf Acc
-BTP10,Amundi Ita Btp Govmnt Bnd 10y Ucits Etf
-CINA,Amundi Msci China Ucits Etf Acc
-CO2,SparkChange Physical Carbon EUA ETC
-CRUD,Wisdomtree Wti Crude Oil
-CSMIB,Ishares Ftse Mib Ucits Etf Eur Acc
-EQQQ,Invesco Eqqq Nasdaq-100 Ucits Etf
-EST,Amundi MSCI Eastern Europe Ex Russia UCITS ETF (Acc)
-EXS1,Ishares Core Dax Ucits Etf
-FSKY,First Trust Cloud Computing Ucits Etf
-INDI,Amundi MSCI India II UCITS ETF EUR Acc
-ITBL,Wisdomtree Ftse Mib Banks
-IUSA,Isharescores&P500$(Dist) Ucits Etf
-KOR,Amundi MSCI Korea UCITS ETF Acc
-MDBA,Ubs Sustainable Development Bank Bonds Ucits Etf Usd Acc
-PFT,Invesco Ftse Rafi Us 1000 Ucits Etf
-PHAU,WisdomTree Physical Gold
+CSMIB.MI,Ishares Ftse Mib Ucits Etf Eur Acc
+EXS1.DE,Ishares Core Dax Ucits Etf
+PHAU.MI,WisdomTree Physical Gold
 QQQ,Invesco QQQ Trust
-RSP, S&P 500 Equal Weight ETF
-SPY,SPDR S&P 500 ETF
-STKX,SPDR MSCI Europe Technology UCITS ETF
-STNX,Spdr Msci Europ Energy Ucits Etf
-STQX,Spdr Msci Europ Industrials Ucits Etf
-STUX,Spdr Msci Europ Utilities Ucits Etf
-STZX,SPDR MSCI Europe Financials UCITS ETF
-SWDA,Ishares Core Msci World Ucits Etf Acc
-TNO,Amundi Stoxx Eur 600 Tech Ucits Etf A
-UST,Amundi Nasdaq-100 Ii Ucits Etf Acc
+SWDA.MI,Ishares Core Msci World Ucits Etf Acc
 VTI,Vanguard Total Stock Market Index Fund ETF
 VOO,Vanguard S&P 500 ETF
+VWCE.MI,Vanguard FTSE All-World UCITS ETF (USD) Acc
+EIMI.MI,iShares Core MSCI Emerging Markets IMI UCITS ETF Acc
